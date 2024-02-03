@@ -1,0 +1,10 @@
+passlib
+fastapi
+PyJWT
+httpx
+requests
+nltk
+pydantic
+pymongo
+farm-haystack[weaviate]
+python-decouple
